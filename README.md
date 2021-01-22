@@ -1,6 +1,12 @@
 # cse210-tc03
 Team Square
 
+
+My name is Bryson Berrett. I am a Computer Engineering Major. I love to build things and work with my hands. 
+My dream is to found a new technology startup and change the world. That is is
+
+
+
 Moon , I am computer engineering.
 
 
@@ -18,5 +24,6 @@ I am from Southern California, I am majoring in Software Engineering, and I plan
 I love playing with electronics and creating things, as well as doing outdoors activites and many others. 
 This is my 9th semester at BYU Idaho, and I am 23 years old. I am married with no kids, and have been married for nearly 2 years. 
 I love this school and this class, and I'm excited to learn more.
+
 
 
